@@ -31,7 +31,7 @@ The project is structured into two major components:
 - `bank analysis.sql`: Contains SQL scripts used for data querying and preprocessing
 - `Bank Analysis.twbx`: Tableau workbook with final dashboards and visuals
 
-> 💡 **Note**: You need:
+> **Note**: You need:
 > - A SQL environment (e.g., MySQL, PostgreSQL, or SQL Server) to run `.sql` scripts  
 > - Tableau Desktop to view `.twbx` files
 
